@@ -1,0 +1,89 @@
+﻿Instalando o assembly 'C:\Projetos\ServicoConsultaDados\ServicoConsultaDados\bin\Debug\ServicoConsultaDados.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Projetos\ServicoConsultaDados\ServicoConsultaDados\bin\Debug\ServicoConsultaDados.InstallLog
+   assemblypath = C:\Projetos\ServicoConsultaDados\ServicoConsultaDados\bin\Debug\ServicoConsultaDados.exe
+Instalando o serviço Service1...
+Serviço Service1 foi instalado com êxito.
+Criando a origem de EventLog Service1 no log Application...
+Confirmando o assembly 'C:\Projetos\ServicoConsultaDados\ServicoConsultaDados\bin\Debug\ServicoConsultaDados.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Projetos\ServicoConsultaDados\ServicoConsultaDados\bin\Debug\ServicoConsultaDados.InstallLog
+   assemblypath = C:\Projetos\ServicoConsultaDados\ServicoConsultaDados\bin\Debug\ServicoConsultaDados.exe
+Instalando o assembly 'C:\Projetos\ServicoConsultaDados\ServicoConsultaDados\bin\Debug\ServicoConsultaDados.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Projetos\ServicoConsultaDados\ServicoConsultaDados\bin\Debug\ServicoConsultaDados.InstallLog
+   assemblypath = C:\Projetos\ServicoConsultaDados\ServicoConsultaDados\bin\Debug\ServicoConsultaDados.exe
+Instalando o serviço Service1...
+Criando a origem de EventLog Service1 no log Application...
+Revertendo o assembly 'C:\Projetos\ServicoConsultaDados\ServicoConsultaDados\bin\Debug\ServicoConsultaDados.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Projetos\ServicoConsultaDados\ServicoConsultaDados\bin\Debug\ServicoConsultaDados.InstallLog
+   assemblypath = C:\Projetos\ServicoConsultaDados\ServicoConsultaDados\bin\Debug\ServicoConsultaDados.exe
+Restaurando o log de eventos para o estado anterior da origem Service1.
+Desinstalando o assembly 'C:\Projetos\ServicoConsultaDados\ServicoConsultaDados\bin\Debug\ServicoConsultaDados.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Projetos\ServicoConsultaDados\ServicoConsultaDados\bin\Debug\ServicoConsultaDados.InstallLog
+   assemblypath = C:\Projetos\ServicoConsultaDados\ServicoConsultaDados\bin\Debug\ServicoConsultaDados.exe
+Removendo a origem do EventLog Service1.
+Serviço Service1 está sendo removido do sistema...
+Serviço Service1 foi removido com êxito do sistema.
+Instalando o assembly 'C:\Projetos\ServicoConsultaDados\ServicoConsultaDados\bin\Debug\ServicoConsultaDados.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Projetos\ServicoConsultaDados\ServicoConsultaDados\bin\Debug\ServicoConsultaDados.InstallLog
+   assemblypath = C:\Projetos\ServicoConsultaDados\ServicoConsultaDados\bin\Debug\ServicoConsultaDados.exe
+Instalando o serviço Service1...
+Serviço Service1 foi instalado com êxito.
+Criando a origem de EventLog Service1 no log Application...
+Confirmando o assembly 'C:\Projetos\ServicoConsultaDados\ServicoConsultaDados\bin\Debug\ServicoConsultaDados.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Projetos\ServicoConsultaDados\ServicoConsultaDados\bin\Debug\ServicoConsultaDados.InstallLog
+   assemblypath = C:\Projetos\ServicoConsultaDados\ServicoConsultaDados\bin\Debug\ServicoConsultaDados.exe
+Desinstalando o assembly 'C:\Projetos\ServicoConsultaDados\ServicoConsultaDados\bin\Debug\ServicoConsultaDados.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Projetos\ServicoConsultaDados\ServicoConsultaDados\bin\Debug\ServicoConsultaDados.InstallLog
+   assemblypath = C:\Projetos\ServicoConsultaDados\ServicoConsultaDados\bin\Debug\ServicoConsultaDados.exe
+Removendo a origem do EventLog Service1.
+Serviço Service1 está sendo removido do sistema...
+Serviço Service1 foi removido com êxito do sistema.
+Instalando o assembly 'C:\Projetos\ServicoConsultaDados\ServicoConsultaDados\bin\Debug\ServicoConsultaDados.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Projetos\ServicoConsultaDados\ServicoConsultaDados\bin\Debug\ServicoConsultaDados.InstallLog
+   assemblypath = C:\Projetos\ServicoConsultaDados\ServicoConsultaDados\bin\Debug\ServicoConsultaDados.exe
+Instalando o serviço Service1...
+Serviço Service1 foi instalado com êxito.
+Criando a origem de EventLog Service1 no log Application...
+Confirmando o assembly 'C:\Projetos\ServicoConsultaDados\ServicoConsultaDados\bin\Debug\ServicoConsultaDados.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Projetos\ServicoConsultaDados\ServicoConsultaDados\bin\Debug\ServicoConsultaDados.InstallLog
+   assemblypath = C:\Projetos\ServicoConsultaDados\ServicoConsultaDados\bin\Debug\ServicoConsultaDados.exe
+Desinstalando o assembly 'C:\Projetos\ServicoConsultaDados\ServicoConsultaDados\bin\Debug\ServicoConsultaDados.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Projetos\ServicoConsultaDados\ServicoConsultaDados\bin\Debug\ServicoConsultaDados.InstallLog
+   assemblypath = C:\Projetos\ServicoConsultaDados\ServicoConsultaDados\bin\Debug\ServicoConsultaDados.exe
+Removendo a origem do EventLog Service1.
+Serviço Service1 está sendo removido do sistema...
+Serviço Service1 foi removido com êxito do sistema.
+Instalando o assembly 'C:\Projetos\ServicoConsultaDados\ServicoConsultaDados\bin\Debug\ServicoConsultaDados.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Projetos\ServicoConsultaDados\ServicoConsultaDados\bin\Debug\ServicoConsultaDados.InstallLog
+   assemblypath = C:\Projetos\ServicoConsultaDados\ServicoConsultaDados\bin\Debug\ServicoConsultaDados.exe
+Instalando o serviço Service1...
+Serviço Service1 foi instalado com êxito.
+Criando a origem de EventLog Service1 no log Application...
+Confirmando o assembly 'C:\Projetos\ServicoConsultaDados\ServicoConsultaDados\bin\Debug\ServicoConsultaDados.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Projetos\ServicoConsultaDados\ServicoConsultaDados\bin\Debug\ServicoConsultaDados.InstallLog
+   assemblypath = C:\Projetos\ServicoConsultaDados\ServicoConsultaDados\bin\Debug\ServicoConsultaDados.exe

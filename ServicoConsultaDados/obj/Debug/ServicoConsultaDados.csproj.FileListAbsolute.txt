@@ -1,0 +1,13 @@
+C:\Projetos\ServicoConsultaDados\ServicoConsultaDados\bin\Debug\ServicoConsultaDados.exe.config
+C:\Projetos\ServicoConsultaDados\ServicoConsultaDados\bin\Debug\ServicoConsultaDados.exe
+C:\Projetos\ServicoConsultaDados\ServicoConsultaDados\bin\Debug\ServicoConsultaDados.pdb
+C:\Projetos\ServicoConsultaDados\ServicoConsultaDados\bin\Debug\Newtonsoft.Json.dll
+C:\Projetos\ServicoConsultaDados\ServicoConsultaDados\bin\Debug\Newtonsoft.Json.xml
+C:\Projetos\ServicoConsultaDados\ServicoConsultaDados\obj\Debug\ServicoConsultaDados.csprojAssemblyReference.cache
+C:\Projetos\ServicoConsultaDados\ServicoConsultaDados\obj\Debug\ServicoConsultaDados.ProjectInstaller.resources
+C:\Projetos\ServicoConsultaDados\ServicoConsultaDados\obj\Debug\ServicoConsultaDados.Service1.resources
+C:\Projetos\ServicoConsultaDados\ServicoConsultaDados\obj\Debug\ServicoConsultaDados.csproj.GenerateResource.cache
+C:\Projetos\ServicoConsultaDados\ServicoConsultaDados\obj\Debug\ServicoConsultaDados.csproj.CoreCompileInputs.cache
+C:\Projetos\ServicoConsultaDados\ServicoConsultaDados\obj\Debug\ServicoConsultaDados.csproj.CopyComplete
+C:\Projetos\ServicoConsultaDados\ServicoConsultaDados\obj\Debug\ServicoConsultaDados.exe
+C:\Projetos\ServicoConsultaDados\ServicoConsultaDados\obj\Debug\ServicoConsultaDados.pdb
